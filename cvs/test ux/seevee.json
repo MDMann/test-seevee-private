@@ -1,1 +1,31 @@
-{}
+{
+    "firstname": "asdfasfd",
+    "lastname": "asdfasf",
+    "jobtitle": "dfa",
+    "contact": {
+        "mobile": "asdfasf",
+        "email": "sgasdfa",
+        "address": {
+            "street": "asdfasf",
+            "postalcode": "asfdasf",
+            "city": "asfasf"
+        }
+    },
+    "qualification": "dafasdf",
+    "qualificationalinstitution": "asdfsfasfd",
+    "languages": [],
+    "certifications": [],
+    "topskills": [],
+    "aboutme": [],
+    "experience": [],
+    "methodicalskills": [],
+    "industryskills": [],
+    "itskills": [],
+    "projecthistory": [],
+    "template": {
+        "id": "seevee",
+        "logo": "logo",
+        "url": "https://www.seevee.io"
+    },
+    "locale": "de"
+}
