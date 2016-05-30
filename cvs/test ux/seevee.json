@@ -13,15 +13,74 @@
     },
     "qualification": "dafasdf",
     "qualificationalinstitution": "asdfsfasfd",
-    "languages": [],
-    "certifications": [],
-    "topskills": [],
-    "aboutme": [],
-    "experience": [],
-    "methodicalskills": [],
-    "industryskills": [],
-    "itskills": [],
-    "projecthistory": [],
+    "languages": [
+        {
+            "name": "sfhgsfhhf",
+            "percentage": "63"
+        },
+        {
+            "name": "sfhsfhssfh",
+            "percentage": "36"
+        }
+    ],
+    "certifications": [
+        {
+            "certificationshortname": "shsfhg",
+            "certificationtooltip": "sfghfgh",
+            "certificationtooltipurl": "sfghsfh"
+        }
+    ],
+    "topskills": [
+        {
+            "name": "sfhjydfysd",
+            "percentage": "66"
+        },
+        {
+            "name": "sfhfjsgjsfg",
+            "percentage": "92"
+        }
+    ],
+    "aboutme": [
+        "sfhfhg",
+        "sfhsfhfhfgh",
+        "gjgjgfdj"
+    ],
+    "experience": [
+        "sfhsjhjgfh",
+        "fghsfjggjsf"
+    ],
+    "methodicalskills": [
+        "sfhgfhfhg",
+        "sfghsfhs",
+        "sfhfhfg"
+    ],
+    "industryskills": [
+        "sfhsfgh"
+    ],
+    "itskills": [
+        "sfddsg",
+        "sfhsfgh",
+        "sfhfh"
+    ],
+    "projecthistory": [
+        {
+            "fromDate": "2016-05-30T12:30:36.489Z",
+            "toDate": "current",
+            "companyName": "sfghfshgsfg",
+            "position": "sjgfjsfgjs",
+            "project": "sjgffjfsj",
+            "softwareUsed": [
+                "jsfjsfjf",
+                "sfhsfjfgjs",
+                "sfhsfjfgj"
+            ],
+            "descriptionTextBlocks": [
+                "sfjsgjssfgj",
+                "sfjgsfjfsjsfgjsfgh",
+                "sffjggfjfs"
+            ]
+        }
+    ],
     "template": {
         "id": "seevee",
         "logo": "logo",
